@@ -1,0 +1,27 @@
+#counter{
+    font-size: 10rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    display: block;
+}
+
+#btncontainer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+.btn{
+    padding: 10px;
+    margin: 20px;
+    font-size: 4vh;
+    color: cornflowerblue;
+    background-color: black;
+    cursor: pointer;
+    border-radius: 10%;
+    border: 10px bold blueviolet;
+    
+}
+.btn :hover{
+      background-color: aquamarine;  
+}
